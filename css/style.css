@@ -232,8 +232,7 @@ button:focus {
 }
 
 .surroundings {
-    width: 192vmin;
-    /* double of mall map */
+    width: 225vmin;
     height: 128vmin;
     margin: -64vmin 0 0 -96vmin;
     pointer-events: none;
