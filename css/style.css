@@ -263,9 +263,9 @@ button:focus {
 }
 
 .levels {
-    width: 190vmin;
-    height: 94vmin;
-    margin: -50vmin 0 0 -100vmin;
+    width: 160vmin;
+    height: 60vmin;
+    margin: -30vmin 0 0 -85vmin;
     -webkit-transition: -webkit-transform 0.3s;
     transition: transform 0.3s;
     -webkit-transform-style: preserve-3d;
