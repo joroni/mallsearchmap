@@ -1,8 +1,4 @@
-;
-(function(window) {
-
-    'use strict';
-
+ 
     // helper functions
     // from https://davidwalsh.name/vendor-prefix
     var prefix = (function() {
@@ -510,6 +506,6 @@
 
 
 
-    init();
+ 
 
-})(window);
+ 
